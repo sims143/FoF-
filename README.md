@@ -6,3 +6,6 @@ Communication : Telegram - FoF
 
 Regularly meetings : Biweekly in hangouts (Notes will be shared here as Google docs : https://docs.google.com/document/d/10R2J_uHfpm87P5BI__r7DhWBcLW14v49bmBjzqzabFg/edit?usp=docslist_api 
 
+Team: 
+1. Sumanth
+2. Gautham Elango
